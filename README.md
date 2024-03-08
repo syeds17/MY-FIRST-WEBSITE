@@ -5,12 +5,13 @@ The webpage features a responsive design to ensure compatibility across various 
 
 Key features of the webpage include:
 
-- *About Me:* A brief introduction to myself and my background.
-- *Portfolio:* A collection of my past projects, including descriptions and links to live demos or GitHub repositories.
-- *Skills:* A list of my technical skills and areas of expertise.
-- *Contact:* Information on how to get in touch with me, such as email, social media profiles, or a contact form.
+- *About Me:* I'm a student currently looking for Internships to work as a frontend web developer.
+- *Portfolio:* This is my first project as I'm making my Portfolio using what I have learned till now
+- *Skills:* #HTML #CSS #JS 
+- *Contact:* https://twitter.com/SyedSadath_27 - My Twitter account,
+ https://www.linkedin.com/in/syed-sadath-1bb252277/ - My LinkedIn account.
 
-I aimed to create a clean and visual
+I aimed to create a clean and visual code.
 
 
 ## Installation
@@ -37,3 +38,5 @@ To view this webpage locally on your machine, follow these steps:
 
 Feel free to interact with the webpage and explore its content. If you have any questions or feedback, don't hesitate to 
 reach out!ng design that effectively presents my work and encourages visitors to explore further.
+
+### I'm also gonna add further files in this project so stay connected ###
