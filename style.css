@@ -1,5 +1,13 @@
 *{
-  background-color: black;
-  color: white;  
-  font-family: 'Courier New', Courier, monospace;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+/**Hero Section**/
+.hero{
+  height: 100vh;
+  width: 100%;
+  background-image: url(../MY-FIRST-WEBSITE-1/backgroung_image.jpg)
 }
