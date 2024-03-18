@@ -189,7 +189,7 @@ h4{
   padding: 100px 0px;
  }
 
- .title h2{
+ .education_title h2{
   color: white;
   font-size: 75px;
   width: 1130px;
@@ -198,7 +198,10 @@ h4{
 }
 
 .box{
-  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 400px;
 }
 
 .card{
@@ -232,4 +235,64 @@ h5{
   font-size: 16px;
   line-height: 27px;
   margin-bottom: 25px;
+}
+
+.pra p a{
+  text-decoration: none;
+  color: #858585;
+}
+
+.Skills{
+  width: 100%;
+  padding: 100px 0px;
+  background-color: #191919;
+}
+
+.skills_title{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 25px 0px;
+}
+
+.skills_title h2{
+  color: white;
+  font-size: 75px;
+  text-align: center;
+}
+
+.skills_title i {
+  font-size: 70px;
+  text-align: center;
+  color: #f9004d;
+  margin-left: 25px;
+  padding-bottom: 15px;
+}
+
+.skills_pra{
+  height: 265px;
+  width: 1130px;
+  padding: 20px 35px;
+  background: #101010;
+  border-radius: 20px;
+  position: relative;
+  margin-left: 160px;
+  overflow: hidden;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+}
+
+.skills_pra p{
+  color: #fcfcfc;
+  font-size: 16px;
+  line-height: 27px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.logos img{
+  height: 100px;
+  width: fit-content;
+  margin-left: 375px;
 }
