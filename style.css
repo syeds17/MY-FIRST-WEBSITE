@@ -37,11 +37,20 @@ span{
 #img{
   height: 370px;
   border-radius: 50%;
-  border: 2px solid white;
+  border: 2px solid #f9004d;
   float: right;
   margin-top: 100px;
   margin-right: 150px;
+  animation: glow-animation 2s ease-in-out infinite alternate;
+  box-shadow: 0 0 10px 10px  #f9004d;
+}
 
+#img:hover{
+  border: 4px solid #f9004d;
+  transform: scale(1.1);
+  transition: .4s;
+
+  
 }
 
 nav ul li{
